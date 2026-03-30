@@ -436,11 +436,10 @@ of this software and associated documentation files...
 
 ## 👤 Author
 
-**[Nama Anda]**
+**[Rizkia Nuari Fujiana]**
 
-- 🌐 GitHub: [@username](https://github.com/username)
-- 📧 Email: email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/username)
+- 🌐 GitHub: [@username](https://github.com/luminariadev)
+- 📧 Email: rizkianuari83@gmail.com
 
 ---
 
